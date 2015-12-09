@@ -64,7 +64,7 @@
     "chalk": "^1",
     "del": "^2",
     "eslint": "^1",
-    "ghooks": "^1",
+    "ghooks": "^1.0.1",
     "glob-all": "^3",
     "gulp": "^3",
     "gulp-debug": "^2",
