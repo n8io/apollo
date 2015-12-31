@@ -1,0 +1,28 @@
+{
+  "name": "apollo",
+  "description": "A minimal UI to check url via GET and show their responses",
+  "main": "src/server/app.js",
+  "authors": [
+    "Nate Clark <n8@n8io.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Express",
+    "Node.Js",
+    "Node",
+    "Angular"
+  ],
+  "homepage": "https://github.com/n8io/apollo",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/client/statics/bower_components",
+    "test",
+    "tests"
+  ]
+}
