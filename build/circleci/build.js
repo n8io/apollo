@@ -31,7 +31,7 @@ function writeCircleCiYaml(nodeVersion) {
       develop: {
         branch: 'develop',
         heroku: {
-          appname: 'utopias-hello-world-dev'
+          appname: 'apollo-dev'
         }
       }
     }
